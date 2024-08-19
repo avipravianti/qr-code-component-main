@@ -43,8 +43,9 @@ body {
 	text-align: center;
 }
 
-.content h3 {
+.content h1 {
 	font-size: 22px;
+	font-weight: bold;
 }
 
 .content p {
